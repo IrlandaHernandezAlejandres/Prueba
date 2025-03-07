@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace PruebaUsandoGit
 {
-    class editar
+    class segundaedicion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo, sigo modificando, esto es la modificacion 2");
+            Console.WriteLine("sisinonosisinoonsisi");
         }
     }
 }
